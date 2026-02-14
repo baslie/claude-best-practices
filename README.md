@@ -10,7 +10,7 @@
 | [changelog-tracker](./skills/changelog-tracker) | Отслеживание обновлений Claude Code с умными дайджестами |
 | [cleanup-nul-files](./skills/cleanup-nul-files) | Удаление файлов `nul` из проекта (артефакт Windows) |
 | [committing-changes](./skills/committing-changes) | Коммит и пуш с автогенерацией сообщения |
-| [restarting-server](./skills/restarting-server) | Перезапуск dev-сервера с очисткой кэша |
+| [restarting-server](./skills/restarting-server) | Перезапуск Node.js dev-сервера с очисткой кэша (Vite, Next.js, Nuxt, Remix и др.) |
 
 ## Конфигурация
 
