@@ -7,17 +7,10 @@
 | Скилл | Описание |
 |-------|----------|
 | [building-wireframes](./skills/building-wireframes) | Генерация lo-fi макетов в HTML с Tailwind CSS |
+| [changelog-tracker](./skills/changelog-tracker) | Отслеживание обновлений Claude Code с умными дайджестами |
 | [cleanup-nul-files](./skills/cleanup-nul-files) | Удаление файлов `nul` из проекта (артефакт Windows) |
 | [committing-changes](./skills/committing-changes) | Коммит и пуш с автогенерацией сообщения |
-| [find-skills](./skills/find-skills) | Поиск и установка скиллов из экосистемы |
-| [frontend-design](./skills/frontend-design) | Production-grade фронтенд с уникальным дизайном |
-| [nextjs-app-router-patterns](./skills/nextjs-app-router-patterns) | Паттерны Next.js 14+ App Router с Server Components и streaming |
-| [playwright-cli](./skills/playwright-cli) | Автоматизация браузера для тестирования и парсинга |
 | [restarting-server](./skills/restarting-server) | Перезапуск dev-сервера с очисткой кэша |
-| [skill-creator](./skills/skill-creator) | Руководство по созданию скиллов |
-| [tailwind-design-system](./skills/tailwind-design-system) | Дизайн-системы с Tailwind CSS и токенами |
-| [tailwind-v4-shadcn](./skills/tailwind-v4-shadcn) | Tailwind v4 + shadcn/ui с CSS-переменными |
-| [vercel-react-best-practices](./skills/vercel-react-best-practices) | 57 правил оптимизации React/Next.js от Vercel |
 
 ## Конфигурация
 
@@ -36,15 +29,15 @@
 
 ```
 /building-wireframes — создать wireframe
+/changelog-tracker   — посмотреть обновления Claude Code
 /committing-changes  — закоммитить изменения
-/frontend-design     — сверстать интерфейс
 /restarting-server   — перезапустить сервер
 ```
 
 Или опишите задачу естественным языком:
 
 > «Создай wireframe для лендинга SaaS-продукта»
-> «Перезапусти сервер и очисти кэш»
+> «Что нового в Claude Code?»
 > «Сделай коммит всех текущих изменений»
 
 ## Структура скиллов
